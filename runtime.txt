@@ -1,0 +1,4 @@
+python-3.6.2
+pip3 install django
+pip install django
+
